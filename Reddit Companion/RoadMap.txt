@@ -1,0 +1,11 @@
+plans for reddit companion webapp:
+
+finish the basic script for the features
+learn to build web app with flask
+implement the script in a flask web app
+add the styling after or during with HTML/
+
+# desktop version first
+make the applicaiton have a gui file, this contains the companion file, this companion file is used to make the bot that takes info from reddit
+
+Create a function to make the physical gui before moving on to integrating the gui into the program
