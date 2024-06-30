@@ -1,1 +1,1 @@
-# Reddit_Companion
+# Reddit_Summary
